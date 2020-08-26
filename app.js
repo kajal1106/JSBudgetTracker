@@ -196,7 +196,11 @@ var UIController = (function(){
 
         dec = numSplit[1];
 
-        return (type === 'exp' ? '-' : '+') + ' ' + int + '.' + dec;
+        if (num !== '0.00') {
+            return (type === 'exp' ? '-' : '+') + ' ' + int + '.' + dec;
+        } else {
+            return int + '.' + dec;
+        }
     };
 
     var nodeListForEach = function(list, callback){

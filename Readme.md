@@ -1,7 +1,9 @@
-## https://kajal1106.github.io/JSBudgetTracker/
+
+## Budget Tracker 
+# https://kajal1106.github.io/JSBudgetTracker/
 
 ## Netlify site name
-## https://jsbudgettracker.netlify.app/
+# https://jsbudgettracker.netlify.app/
 
 # Key Features
 

@@ -1,9 +1,11 @@
 
-## Budget Tracker 
- https://kajal1106.github.io/JSBudgetTracker/
+># Budget Tracker 
+> Budget Tracking application using modern javascript.
 
-## Live Demo 
-https://jsbudgettracker.netlify.app/
+># Live Demo 
+>https://jsbudgettracker.netlify.app/
+>https://kajal1106.github.io/JSBudgetTracker/
+
 
 # Key Features
 
